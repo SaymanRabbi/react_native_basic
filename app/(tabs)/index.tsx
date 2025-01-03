@@ -8,6 +8,7 @@ const app = () => {
       backgroundColor: '#fff',
       alignItems: 'center',
       justifyContent: 'center',
+      fontWeight: 'bold',
     },
     
   })
